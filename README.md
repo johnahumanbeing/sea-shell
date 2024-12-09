@@ -56,5 +56,4 @@ Explore practical examples of shell scripts to understand how they work:
 
 We welcome contributions! If you have any examples, improvements, or suggestions, please feel free to open an issue or submit a pull request.
 
-
 Happy scripting!
